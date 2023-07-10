@@ -18,3 +18,7 @@ mingw32-make
 ```
 Inject.exe <DLL> <TARGET>
 ```
+Example command :
+```
+Inject.exe evil.dll nodepad.exe
+```
