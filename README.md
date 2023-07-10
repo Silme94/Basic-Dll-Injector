@@ -4,8 +4,8 @@
 
 2. Clone the project.
 ```
-git clone
-cd
+git clone https://github.com/Silme94/C-Basic-Dll-Injector
+cd C-Basic-Dll-Injector
 ```
 3. Compile the source code using Makefile.
 ```
